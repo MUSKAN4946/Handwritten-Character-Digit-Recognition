@@ -1,0 +1,6 @@
+START HERE
+1. Read README.md.
+2. Upload notebooks/Handwritten_Character_Digit_Recognition.ipynb to Google Colab.
+3. Run all notebook cells and download handwritten_cnn.keras.
+4. Put handwritten_cnn.keras in the models folder.
+5. In VS Code terminal, install requirements and run: streamlit run app.py
